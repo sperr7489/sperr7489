@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sperr7489 nickname is "qrohiphop"
 - 👀 I’m interested in hiphop dancing
-- 🌱 I’m currently learning java/spring boot
+- 🌱 I’m currently learning nodejs-express, React.js
 - 💞️ I’m looking to collaborate on web server developer
 - 📫 How to reach me github.com/sperr7489
 
