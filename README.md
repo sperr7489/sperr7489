@@ -13,9 +13,13 @@ sperr7489/sperr7489 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-       <br>
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+        <br>
+        
+## 🛠 Tech Stack 🛠
+        
+        
 <div align="center">
+        <br>
         <div>
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /></a>
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /></a> 
@@ -37,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>   
 
-My Github Stat
+##  🎖 My Github Stat⨊ 🎖
 ---
        
 <br>
